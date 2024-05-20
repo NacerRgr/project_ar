@@ -1,0 +1,45 @@
+# Unity generated files
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Ll]ibrary/
+[Ll]ogs/
+
+# Visual Studio files
+*.userprefs
+*.csproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.unityproj
+*.pidb
+*.pdb
+*.opendb
+
+# MonoDevelop files
+*.pidb.meta
+
+# Rider files
+.idea/
+
+# Mac files
+.DS_Store
+
+# Thumbnails
+._*
+
+# Android
+Thumbs.db
+*.apk
+*.aab
+*.obb
+
+# iOS
+*.ipa
+*.xcarchive
+*.dSYM.zip
+*.dSYM
+*.hmap
+*.ipa.meta
+
