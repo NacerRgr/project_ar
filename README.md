@@ -1,4 +1,4 @@
-# Project Name
+# TREASURE HUNT GAME (PROOF OF CONCEPT)
 
 ## Steps to Use:
 
