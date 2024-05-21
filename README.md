@@ -1,5 +1,7 @@
 # JEU DE CHASSE AU TRÉSOR (PREUVE DE CONCEPT)
 
+## membre du groupe de projet 
+ER-RAGRAGY MOHAMED NACER
 ## Objectif
 
 L'objectif du projet est de trouver le trésor dans une chasse au trésor.
