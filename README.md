@@ -1,25 +1,41 @@
-# TREASURE HUNT GAME (PROOF OF CONCEPT)
+# JEU DE CHASSE AU TRÉSOR (PREUVE DE CONCEPT)
 
-## Steps to Use:
+## Objectif
 
-1. **Clone the Repository:** 
-   - Clone this repository to your local machine using Git or download it as a ZIP file and extract it.
+L'objectif du projet est de trouver le trésor dans une chasse au trésor.
 
-2. **Open in Unity:** 
-   - Open Unity Hub.
-   - Click on "Add" and navigate to the directory where you cloned or extracted the project.
-   - Select the project folder to open it in Unity.
+## Scénario
 
-3. **Explore the Project:**
-   - Take some time to explore the project hierarchy and familiarize yourself with its structure.
-   - In the "Scenes" folder, you can find the various scenes that make up the project. Double-click on a scene to open it in the Unity Editor.
+Le joueur doit accomplir une série de tâches pour trouver le trésor caché.
 
-4. **Run the Project:**
-   - To run the project, open a scene by double-clicking on it in the "Scenes" folder within Unity's Project window.
-   - Press the play button at the top of the Unity Editor to play the scene and interact with the project.
+1. **Première Scène :**
+   - Le joueur place des araignées dans la scène et tente de les tuer afin d'obtenir la première clé. Lorsque le score atteint 30, le joueur obtient la première clé.
 
-5. **Modify and Experiment:**
-   - Feel free to modify the project, experiment with different features, or integrate it into your own work.
+2. **Deuxième Scène :**
+   - Le joueur est redirigé vers la deuxième scène où il doit scanner une image pour tuer le dernier boss. 
+2. **Troisieme Scène :**
+   Après avoir réussi, il doit trouver le dernier marqueur afin de découvrir le trésor
 
-6. **Share Feedback:**
-   - If you have any feedback or encounter any issues while using the project, feel free to reach out to the project owner or create an issue on the repository.
+## Étapes à suivre
+
+1. **Cloner le Dépôt :**
+   - Clonez ce dépôt sur votre machine locale en utilisant Git ou téléchargez-le sous forme de fichier ZIP et extrayez-le.
+
+2. **Ouvrir dans Unity :**
+   - Ouvrez Unity Hub.
+   - Cliquez sur "Ajouter" et naviguez jusqu'au répertoire où vous avez cloné ou extrait le projet.
+   - Sélectionnez le dossier du projet pour l'ouvrir dans Unity.
+
+3. **Explorer le Projet :**
+   - Prenez le temps d'explorer la hiérarchie du projet et familiarisez-vous avec sa structure.
+   - Dans le dossier "Scènes", vous trouverez les différentes scènes qui composent le projet. Double-cliquez sur une scène pour l'ouvrir dans l'éditeur Unity.
+
+4. **Exécuter le Projet :**
+   - Pour exécuter le projet, ouvrez une scène en double-cliquant dessus dans le dossier "Scènes" de la fenêtre Projet d'Unity.
+   - Appuyez sur le bouton "Lecture" en haut de l'éditeur Unity pour jouer la scène et interagir avec le projet.
+
+5. **Modifier et Expérimenter :**
+   - N'hésitez pas à modifier le projet, à expérimenter avec différentes fonctionnalités ou à l'intégrer à votre propre travail.
+
+6. **Partager vos Retours :**
+   - Si vous avez des commentaires ou rencontrez des problèmes lors de l'utilisation du projet, n'hésitez pas à contacter le propriétaire du projet ou à créer un problème sur le dépôt.
